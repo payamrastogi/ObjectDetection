@@ -1,0 +1,8 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+apple(16).jpeg,800,600,apple,203,164,647,406
+apple(13).jpeg,800,600,apple,188,245,579,457
+notapple(14).jpeg,800,600,not apple,140,66,542,380
+apple(14).jpeg,800,600,apple,207,209,604,454
+notapple(13).jpeg,800,600,not apple,214,89,585,456
+notapple(15).jpeg,800,600,not apple,285,168,491,393
+apple(15).jpeg,800,600,apple,138,188,564,436

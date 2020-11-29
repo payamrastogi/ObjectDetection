@@ -11,3 +11,7 @@ Basic Object Detection
 
 ## Resolving tensorflow.contrib issue
 - https://stackoverflow.com/questions/55082483/why-i-cannot-import-tensorflow-contrib-i-get-an-error-of-no-module-named-tensor
+
+```
+python generate_tfrecord.py --csv_input=labelled\\train_labels.csv --image_dir=images\train --output_path=train.record
+```

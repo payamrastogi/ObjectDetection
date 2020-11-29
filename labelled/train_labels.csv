@@ -1,0 +1,25 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+apple(7).jpeg,800,600,apple,224,169,574,362
+apple(11).jpeg,800,600,apple,162,230,585,463
+apple(12).jpeg,800,600,apple,195,236,553,440
+notapple(1).jpeg,800,600,not apple,301,207,505,331
+notapple(5).jpeg,800,600,not apple,308,113,485,404
+apple(8).jpeg,800,600,apple,98,33,470,266
+apple(1).jpeg,800,600,apple,176,153,613,390
+notapple(12).jpeg,800,600,not apple,227,55,582,376
+notapple(11).jpeg,800,600,not apple,143,203,662,314
+apple(9).jpeg,800,600,apple,199,247,580,451
+notapple(3).jpeg,800,600,not apple,170,179,609,374
+notapple(10).jpeg,800,600,not apple,122,208,548,442
+apple(2).jpeg,800,600,apple,325,243,514,356
+apple(10).jpeg,800,600,apple,130,214,541,450
+apple(6).jpeg,800,600,apple,116,40,553,285
+apple(3).jpeg,800,600,apple,4,138,436,402
+notapple(9).jpeg,800,600,not apple,214,209,515,340
+notapple(8).jpeg,800,600,not apple,141,185,631,458
+notapple(2).jpeg,800,600,not apple,213,163,501,329
+notapple(6).jpeg,800,600,not apple,209,144,603,365
+notapple(7).jpeg,800,600,not apple,58,121,569,360
+notapple(4).jpeg,800,600,not apple,267,208,475,362
+apple(5).jpeg,800,600,apple,141,176,581,452
+apple(4).jpeg,800,600,apple,324,244,516,356
