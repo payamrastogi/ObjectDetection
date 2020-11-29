@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Apples</folder>
+	<filename> (1).jpeg</filename>
+	<path>/home/pi/workspace/ObjectDetection/resized800x600/Apples/ (1).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>153</ymin>
+			<xmax>613</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>
